@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Seventh post"
+date:   2014-02-28 08:30:39
+categories: jekyll update
+---
+
+This <img src ="/assets/pic.jpg"
+alt="John and Ella on Skiddaw" align="left" width="300" height="250"
+title="John and Ella on Skiddaw" class="img"</img> is Rajeev's second blog. In this second para, I will discuss some tricks.
+
+Thanks. This is Rajeev's second blog. In this second para, I will discuss some tricks. Thanks.This is Rajeev's second blog. In this second para, I will discuss some tricks.
+
+Thanks.Thanks. This is Rajeev's second blog. There should be an excerpt separator after this. <!-- more --> In this second para, I will discuss some tricks. Thanks.This is Rajeev's second blog. In this second para, I will discuss some tricks.
+
+Thanks.Thanks. This is Rajeev's second blog. In this second para, I will discuss some tricks. Thanks.This is Rajeev's second blog. In this second para, I will discuss some tricks.
+
+Thanks.Thanks. This is Rajeev's second blog. In this second para, I will discuss some tricks. Thanks.This is Rajeev's second blog. In this second para, I will discuss some tricks.
+
+Thanks.Thanks. This is Rajeev's second blog. In this second para, I will discuss some tricks. Thanks.This is Rajeev's second blog. In this second para, I will discuss some tricks.
+
+Thanks.Thanks. This is Rajeev's second blog. In this second para, I will discuss some tricks. Thanks.This is Rajeev's second blog. In this second para, I will discuss some tricks.
+
+Thanks.

@@ -1,0 +1,19 @@
+---
+layout: blogpage
+title: Out Thoughts.
+---
+
+{% for post in site.posts %}
+
+{% capture day %}{{ post.date | date: '%m%Y' }}{% endcapture %}
+{% capture nday %}{{ post.next.date | date: '%m%Y' }}{% endcapture %}
+
+{% if day != nday %}
+<p></p>
+<h3>{{ post.date | date: " %B, %Y" }}</h3>
+<p></p>
+{% endif %}
+<a href="{{ post.url }}">{{ post.title }}</a>
+<hr>
+
+{% endfor %}
