@@ -424,7 +424,7 @@ body {
 }
 /* start service-page */
 .service_bg{
-	background:#66BDB8;
+	background:#659D32;
 }
 .service{
 	padding: 4% 6%;
@@ -434,18 +434,19 @@ body {
 }
 .service_pic{
 	position: absolute;
-	top: -40%;
+	/* top: -40%; */
+    top: -40%;
 	left: 40%;
 }
 .service_pic img{
-	border: 10px solid #6FCFC9;
-	border-radius: 110px;
+	border: 10px solid #397D02;
+	border-radius: 10px;
 	-webkit-border-radius: 110px;
 	-moz-border-radius: 110px;
 	-o-border-radius: 110px;
 }
 .service_list{
-	background: #6FCFC9;
+	background: #397D02;
 	padding: 12% 4% 4% 4%;
 	text-align: center;
 	margin-top: 12%;
