@@ -436,12 +436,12 @@ body {
 	position: absolute;
 	/* top: -40%; */
     top: -40%;
-	left: 40%;
+	left: 0%;
 }
 .service_pic img{
 	border: 10px solid #397D02;
-	border-radius: 10px;
-	-webkit-border-radius: 110px;
+	border-length: 10px;
+	-webkit-border-length: 110px;
 	-moz-border-radius: 110px;
 	-o-border-radius: 110px;
 }
@@ -589,6 +589,12 @@ body {
 	text-transform: lowercase;
 	line-height: 2em;
 }
+
+.span_1_of_2_text h5{
+	font-size: 2em;
+	color: #bebebe;
+}
+
 /*--- social-icons ----*/
 .social-icons {
 	margin-top: 3.33333%;
