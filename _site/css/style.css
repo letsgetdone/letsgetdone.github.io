@@ -435,20 +435,22 @@ body {
 .service_pic{
 	position: absolute;
 	/* top: -40%; */
-    top: -40%;
+    top: 0%;
 	left: 0%;
 }
 .service_pic img{
-	border: 10px solid #397D02;
-	border-length: 10px;
-	-webkit-border-length: 110px;
+	/* border: 10px solid #397D02; */
+    border: 10px solid #ffffff;
+	border-radius: 10px;
+	-webkit-border-radius: 50px;
 	-moz-border-radius: 110px;
 	-o-border-radius: 110px;
 }
 .service_list{
-	background: #397D02;
+	/* background: #397D02; */
+    background: #ffffff;
 	padding: 12% 4% 4% 4%;
-	text-align: center;
+	text-align: right;
 	margin-top: 12%;
 }
 .service_list p{
