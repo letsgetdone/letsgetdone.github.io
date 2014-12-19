@@ -128,6 +128,7 @@ body {
 	font-size: 1.5em;
 	color: #ffffff;
 }
+
 .content_bg{
 	background: url('../images/main_bg_stripe.jpg');
 	background-size: 100% 100%;
@@ -353,6 +354,7 @@ body {
 	font-size: 1.5em;
 	color: #bebebe;
 }
+
 /* start grids_of_2 */
 .grids_of_2{
 	display:block;
@@ -424,7 +426,8 @@ body {
 }
 /* start service-page */
 .service_bg{
-	background:#659D32;
+	/* background:#659D32; */
+    background:#ffffff;
 }
 .service{
 	padding: 4% 6%;
@@ -451,7 +454,7 @@ body {
     background: #ffffff;
 	padding: 12% 4% 4% 4%;
 	text-align: right;
-	margin-top: 12%;
+	margin-top: 0%;
 }
 .service_list p{
 	font-size:0.8925em;
@@ -462,8 +465,9 @@ body {
 	text-transform:uppercase;
 	margin-top:2%;
 	font-size:1.2em;
-	color: #ffffff;
+	color: #FFFFFF;
 }
+
 /* start contact-page */
 .contact_bg{
 	background:#496DAF;
@@ -725,7 +729,7 @@ body {
 	background: url(../images/top-move.png) no-repeat right top;
 }
 
-/***** Media Quries *****/
+/***** Media Queries *****/
 @media only screen and (max-width: 1366px) {
 	.wrap{
 		width:95%;
